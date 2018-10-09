@@ -1,6 +1,6 @@
 # The image is here
 
-<img src="image/sample.png" height="100" width="30">
+<img src="image/sample.png" height="150" width="200">
 
 # Code hyperlink !! enjoy
 
