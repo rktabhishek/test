@@ -1,2 +1,2 @@
 # test
-![](image/abc.png)
+![](image/sample.png)
