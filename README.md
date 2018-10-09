@@ -1,7 +1,7 @@
 # test
-![](image/sample.png)
 
-# abhishek
+<img src="image/sample.png" height="100" width="30">
+
 hi i 
 
 [code](src/abc.java)
